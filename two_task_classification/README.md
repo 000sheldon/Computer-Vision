@@ -6,8 +6,7 @@ New knowledge learned:
 2. some methods of preprocessing data 
 3. understand pytorch's computation graph 
 
-The next task left to be learn:
+The tasks left to be learn:
 1. how to organize multiple learning submodel in network, while means how to implement a structure like GoogleNet
 2. more preprcessing data method
-
-
+3. multiple-label-task classification
