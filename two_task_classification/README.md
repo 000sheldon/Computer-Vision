@@ -1,4 +1,4 @@
-It's two task classification.
+It's two task classification:
 One task is classify class(纲) between Mammals and Birds, anthor task is classify Species(种) between rabbits, rats, and chickens.
 
 Description of dataset:
