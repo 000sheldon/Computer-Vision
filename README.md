@@ -1,3 +1,3 @@
 # My_Project
 
-The repository contain my small and fun projects for exercise
+The repository contains my small and fun projects for exercise
