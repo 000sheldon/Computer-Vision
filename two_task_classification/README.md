@@ -1,11 +1,13 @@
 It's two task classification:
 One task is classify class(纲) between Mammals and Birds, anthor task is classify Species(种) between rabbits, rats, and chickens.
 
+
 Description of dataset:
 Training datast: only contains 900 images
 Test dataset: only 90 images
 And I don't GPU Now, so the traning result is not very good.
 
+Framework: Pytorch
 
 New knowledge learned: 
 1. build neural networks of two branches implementing two classification task
