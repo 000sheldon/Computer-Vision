@@ -7,6 +7,7 @@ Facial keypoints detection is likely to classifiction, which last layer doesn't 
 
 New knowledge left to learn:
 How to precisely control tensor forward flow and gradient backpropagation like pytorch.
+I am familiar with numpy but not familiar with pandas, so I should learn more about pandas
 
 
 
